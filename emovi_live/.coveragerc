@@ -1,0 +1,5 @@
+[run]
+include = emovi_live/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
